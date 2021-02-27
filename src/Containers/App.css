@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'ojolregular';
+    src: url('ojol-webfont.woff2') format('woff2'),
+         url('ojol-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+h1 {
+    font-family: 'ojolregular'; 
+    font-weight: 500;
+    color: rgb(229, 255, 0);
+
+}
+
+#title {
+    font-size: 4rem;
+    letter-spacing: 3px;
+    margin-bottom: 0px;
+}
